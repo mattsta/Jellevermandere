@@ -1,6 +1,6 @@
 # Hey, I am Jelle
 
-You can find me on [Youtube](www.youtube.com/jellevermandere), [Twitter](www.twitter.com/jellevermandere) and everywhere else `@jellevermandere`
+You can find me on [YouTube](https://www.youtube.com/jellevermandere), [Twitter](https://www.twitter.com/jellevermandere) and everywhere else `@jellevermandere`
 
 I have quite a few repositories, one more useful than the other, here's a quick overview.
 
